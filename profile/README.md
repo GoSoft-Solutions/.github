@@ -8,7 +8,7 @@ We specialize in delivering tailored solutions for the logistics, airport operat
 
 #More than technology. An experience.
 
-Got an idea in mind? Learn more at gosoftsolutions.com
+Got an idea in mind? Learn more at https://gosoftsolutions.com
 
 
 ---
