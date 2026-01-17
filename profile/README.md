@@ -1,4 +1,4 @@
-## GoSoft es una empresa especializada en el desarrollo de software a la medida, ayudando a transformar ideas en soluciones tecnológicas de alto impacto.
+## GoSoft is a company specializing in custom software development, helping to transform ideas into high-impact technological solutions.
 
 - 🌍 About: https://www.gosoftsolutions.com
 - 💼 Careers: https://www.gosoftsolutions.com/careers
